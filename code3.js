@@ -55,7 +55,7 @@ gdjs.PauseScreenCode.condition3IsTrue_2 = {val:false};
 gdjs.PauseScreenCode.condition4IsTrue_2 = {val:false};
 
 
-gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDresumeObjects3Objects = Hashtable.newFrom({"resume": gdjs.PauseScreenCode.GDresumeObjects3});gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Hashtable.newFrom({"level": gdjs.PauseScreenCode.GDlevelObjects2});gdjs.PauseScreenCode.eventsList0x7d723c = function(runtimeScene) {
+gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDresumeObjects3Objects = Hashtable.newFrom({"resume": gdjs.PauseScreenCode.GDresumeObjects3});gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Hashtable.newFrom({"level": gdjs.PauseScreenCode.GDlevelObjects2});gdjs.PauseScreenCode.eventsList0x7cc624 = function(runtimeScene) {
 
 {
 
@@ -63,7 +63,7 @@ gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDresumeObjects3Objects = H
 gdjs.PauseScreenCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition0IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8222380);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8178324);
 }
 }if (gdjs.PauseScreenCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Level" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().get("levelSelect")), false);
@@ -74,8 +74,8 @@ gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 }
 
 
-}; //End of gdjs.PauseScreenCode.eventsList0x7d723c
-gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Hashtable.newFrom({"level": gdjs.PauseScreenCode.GDlevelObjects2});gdjs.PauseScreenCode.eventsList0x7d79e4 = function(runtimeScene) {
+}; //End of gdjs.PauseScreenCode.eventsList0x7cc624
+gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Hashtable.newFrom({"level": gdjs.PauseScreenCode.GDlevelObjects2});gdjs.PauseScreenCode.eventsList0x7ccdcc = function(runtimeScene) {
 
 {
 
@@ -83,7 +83,7 @@ gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Ha
 gdjs.PauseScreenCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition0IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(17594732);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8180292);
 }
 }if (gdjs.PauseScreenCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Level1", false);
@@ -94,8 +94,8 @@ gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 }
 
 
-}; //End of gdjs.PauseScreenCode.eventsList0x7d79e4
-gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Hashtable.newFrom({"level": gdjs.PauseScreenCode.GDlevelObjects2});gdjs.PauseScreenCode.eventsList0xb7cdac = function(runtimeScene) {
+}; //End of gdjs.PauseScreenCode.eventsList0x7ccdcc
+gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Hashtable.newFrom({"level": gdjs.PauseScreenCode.GDlevelObjects2});gdjs.PauseScreenCode.eventsList0x7cd524 = function(runtimeScene) {
 
 {
 
@@ -103,7 +103,7 @@ gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDlevelObjects2Objects = Ha
 gdjs.PauseScreenCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition0IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12046860);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8182148);
 }
 }if (gdjs.PauseScreenCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Level" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().get("levelSelect")), false);
@@ -114,8 +114,8 @@ gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 }
 
 
-}; //End of gdjs.PauseScreenCode.eventsList0xb7cdac
-gdjs.PauseScreenCode.eventsList0x7d4fbc = function(runtimeScene) {
+}; //End of gdjs.PauseScreenCode.eventsList0x7cd524
+gdjs.PauseScreenCode.eventsList0x7cdf94 = function(runtimeScene) {
 
 {
 
@@ -123,7 +123,7 @@ gdjs.PauseScreenCode.eventsList0x7d4fbc = function(runtimeScene) {
 gdjs.PauseScreenCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition0IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8213228);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8184516);
 }
 }if (gdjs.PauseScreenCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.PauseScreenCode.GDTextEntryObjects2 */
@@ -136,8 +136,8 @@ gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 }
 
 
-}; //End of gdjs.PauseScreenCode.eventsList0x7d4fbc
-gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDmenuObjects2Objects = Hashtable.newFrom({"menu": gdjs.PauseScreenCode.GDmenuObjects2});gdjs.PauseScreenCode.eventsList0x7d6814 = function(runtimeScene) {
+}; //End of gdjs.PauseScreenCode.eventsList0x7cdf94
+gdjs.PauseScreenCode.mapOfGDgdjs_46PauseScreenCode_46GDmenuObjects2Objects = Hashtable.newFrom({"menu": gdjs.PauseScreenCode.GDmenuObjects2});gdjs.PauseScreenCode.eventsList0x7cbcec = function(runtimeScene) {
 
 {
 
@@ -230,7 +230,7 @@ gdjs.PauseScreenCode.GDresumeObjects2.createFrom(gdjs.PauseScreenCode.GDresumeOb
 }if ( gdjs.PauseScreenCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition1IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8219764);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8175892);
 }
 }}
 if (gdjs.PauseScreenCode.condition1IsTrue_0.val) {
@@ -296,7 +296,7 @@ gdjs.PauseScreenCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNu
 }if ( gdjs.PauseScreenCode.condition2IsTrue_0.val ) {
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition3IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8221828);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8177772);
 }
 }}
 }
@@ -304,7 +304,7 @@ gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 if (gdjs.PauseScreenCode.condition3IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.PauseScreenCode.eventsList0x7d723c(runtimeScene);} //End of subevents
+gdjs.PauseScreenCode.eventsList0x7cc624(runtimeScene);} //End of subevents
 }
 
 }
@@ -346,7 +346,7 @@ if( gdjs.PauseScreenCode.condition1IsTrue_1.val ) {
 }if ( gdjs.PauseScreenCode.condition2IsTrue_0.val ) {
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition3IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(17595228);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8180028);
 }
 }}
 }
@@ -354,7 +354,7 @@ gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 if (gdjs.PauseScreenCode.condition3IsTrue_0.val) {
 
 { //Subevents
-gdjs.PauseScreenCode.eventsList0x7d79e4(runtimeScene);} //End of subevents
+gdjs.PauseScreenCode.eventsList0x7ccdcc(runtimeScene);} //End of subevents
 }
 
 }
@@ -379,7 +379,7 @@ gdjs.PauseScreenCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNu
 }if ( gdjs.PauseScreenCode.condition2IsTrue_0.val ) {
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition3IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12046308);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8181596);
 }
 }}
 }
@@ -392,7 +392,7 @@ gdjs.PauseScreenCode.GDTextEntryObjects2.createFrom(runtimeScene.getObjects("Tex
 }
 }
 { //Subevents
-gdjs.PauseScreenCode.eventsList0xb7cdac(runtimeScene);} //End of subevents
+gdjs.PauseScreenCode.eventsList0x7cd524(runtimeScene);} //End of subevents
 }
 
 }
@@ -433,7 +433,7 @@ gdjs.PauseScreenCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased
 }if ( gdjs.PauseScreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition2IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8212780);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8184068);
 }
 }}
 }
@@ -444,7 +444,7 @@ gdjs.PauseScreenCode.GDTextEntryObjects2.createFrom(runtimeScene.getObjects("Tex
 }
 }
 { //Subevents
-gdjs.PauseScreenCode.eventsList0x7d4fbc(runtimeScene);} //End of subevents
+gdjs.PauseScreenCode.eventsList0x7cdf94(runtimeScene);} //End of subevents
 }
 
 }
@@ -469,7 +469,7 @@ gdjs.PauseScreenCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNu
 }if ( gdjs.PauseScreenCode.condition2IsTrue_0.val ) {
 {
 {gdjs.PauseScreenCode.conditionTrue_1 = gdjs.PauseScreenCode.condition3IsTrue_0;
-gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8214740);
+gdjs.PauseScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8186028);
 }
 }}
 }
@@ -543,7 +543,7 @@ gdjs.PauseScreenCode.GDlevelObjects1.createFrom(runtimeScene.getObjects("level")
 }
 
 
-}; //End of gdjs.PauseScreenCode.eventsList0x7d6814
+}; //End of gdjs.PauseScreenCode.eventsList0x7cbcec
 gdjs.PauseScreenCode.eventsList0xb4320 = function(runtimeScene) {
 
 {
@@ -569,7 +569,7 @@ gdjs.PauseScreenCode.condition0IsTrue_0.val = gdjs.evtTools.common.logicalNegati
 {
 
 
-if (runtimeScene.getProfiler()) { runtimeScene.getProfiler().begin("Main Scripts"); }gdjs.PauseScreenCode.eventsList0x7d6814(runtimeScene);if (runtimeScene.getProfiler()) { runtimeScene.getProfiler().end("Main Scripts"); }
+if (runtimeScene.getProfiler()) { runtimeScene.getProfiler().begin("Main Scripts"); }gdjs.PauseScreenCode.eventsList0x7cbcec(runtimeScene);if (runtimeScene.getProfiler()) { runtimeScene.getProfiler().end("Main Scripts"); }
 }
 
 

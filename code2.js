@@ -111,7 +111,7 @@ gdjs.CreditScreenCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObjec
 }if ( gdjs.CreditScreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.CreditScreenCode.conditionTrue_1 = gdjs.CreditScreenCode.condition2IsTrue_0;
-gdjs.CreditScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8213156);
+gdjs.CreditScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8169260);
 }
 }}
 }

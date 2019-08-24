@@ -28,7 +28,7 @@ gdjs.MultiplayerPreviewCode.condition1IsTrue_1 = {val:false};
 gdjs.MultiplayerPreviewCode.condition2IsTrue_1 = {val:false};
 
 
-gdjs.MultiplayerPreviewCode.mapOfGDgdjs_46MultiplayerPreviewCode_46GDresumeObjects1Objects = Hashtable.newFrom({"resume": gdjs.MultiplayerPreviewCode.GDresumeObjects1});gdjs.MultiplayerPreviewCode.eventsList0x876c6c = function(runtimeScene) {
+gdjs.MultiplayerPreviewCode.mapOfGDgdjs_46MultiplayerPreviewCode_46GDresumeObjects1Objects = Hashtable.newFrom({"resume": gdjs.MultiplayerPreviewCode.GDresumeObjects1});gdjs.MultiplayerPreviewCode.eventsList0x7d63f4 = function(runtimeScene) {
 
 {
 
@@ -36,7 +36,7 @@ gdjs.MultiplayerPreviewCode.mapOfGDgdjs_46MultiplayerPreviewCode_46GDresumeObjec
 gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val = false;
 {
 {gdjs.MultiplayerPreviewCode.conditionTrue_1 = gdjs.MultiplayerPreviewCode.condition0IsTrue_0;
-gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8876084);
+gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8218556);
 }
 }if (gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Level1", false);
@@ -45,8 +45,8 @@ gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers()
 }
 
 
-}; //End of gdjs.MultiplayerPreviewCode.eventsList0x876c6c
-gdjs.MultiplayerPreviewCode.eventsList0x87763c = function(runtimeScene) {
+}; //End of gdjs.MultiplayerPreviewCode.eventsList0x7d63f4
+gdjs.MultiplayerPreviewCode.eventsList0x7d5e0c = function(runtimeScene) {
 
 {
 
@@ -54,7 +54,7 @@ gdjs.MultiplayerPreviewCode.eventsList0x87763c = function(runtimeScene) {
 gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val = false;
 {
 {gdjs.MultiplayerPreviewCode.conditionTrue_1 = gdjs.MultiplayerPreviewCode.condition0IsTrue_0;
-gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8875212);
+gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8217684);
 }
 }if (gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Delay Your Dreams.wav", 1, true, 100, 1);
@@ -62,14 +62,14 @@ gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers()
 }{runtimeScene.getGame().getVariables().getFromIndex(1).setNumber(2);
 }
 { //Subevents
-gdjs.MultiplayerPreviewCode.eventsList0x876c6c(runtimeScene);} //End of subevents
+gdjs.MultiplayerPreviewCode.eventsList0x7d63f4(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MultiplayerPreviewCode.eventsList0x87763c
-gdjs.MultiplayerPreviewCode.mapOfGDgdjs_46MultiplayerPreviewCode_46GDCopyOfresumeObjects1Objects = Hashtable.newFrom({"CopyOfresume": gdjs.MultiplayerPreviewCode.GDCopyOfresumeObjects1});gdjs.MultiplayerPreviewCode.eventsList0xb7ce2c = function(runtimeScene) {
+}; //End of gdjs.MultiplayerPreviewCode.eventsList0x7d5e0c
+gdjs.MultiplayerPreviewCode.mapOfGDgdjs_46MultiplayerPreviewCode_46GDCopyOfresumeObjects1Objects = Hashtable.newFrom({"CopyOfresume": gdjs.MultiplayerPreviewCode.GDCopyOfresumeObjects1});gdjs.MultiplayerPreviewCode.eventsList0x7d6f8c = function(runtimeScene) {
 
 {
 
@@ -77,7 +77,7 @@ gdjs.MultiplayerPreviewCode.mapOfGDgdjs_46MultiplayerPreviewCode_46GDCopyOfresum
 gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val = false;
 {
 {gdjs.MultiplayerPreviewCode.conditionTrue_1 = gdjs.MultiplayerPreviewCode.condition0IsTrue_0;
-gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12046836);
+gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8221524);
 }
 }if (gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Level1", false);
@@ -86,8 +86,8 @@ gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers()
 }
 
 
-}; //End of gdjs.MultiplayerPreviewCode.eventsList0xb7ce2c
-gdjs.MultiplayerPreviewCode.eventsList0x8771ac = function(runtimeScene) {
+}; //End of gdjs.MultiplayerPreviewCode.eventsList0x7d6f8c
+gdjs.MultiplayerPreviewCode.eventsList0x7d6934 = function(runtimeScene) {
 
 {
 
@@ -95,7 +95,7 @@ gdjs.MultiplayerPreviewCode.eventsList0x8771ac = function(runtimeScene) {
 gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val = false;
 {
 {gdjs.MultiplayerPreviewCode.conditionTrue_1 = gdjs.MultiplayerPreviewCode.condition0IsTrue_0;
-gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12045964);
+gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8220652);
 }
 }if (gdjs.MultiplayerPreviewCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Delay Your Dreams.wav", 1, true, 100, 1);
@@ -103,13 +103,13 @@ gdjs.MultiplayerPreviewCode.conditionTrue_1.val = runtimeScene.getOnceTriggers()
 }{runtimeScene.getGame().getVariables().getFromIndex(1).setNumber(2);
 }
 { //Subevents
-gdjs.MultiplayerPreviewCode.eventsList0xb7ce2c(runtimeScene);} //End of subevents
+gdjs.MultiplayerPreviewCode.eventsList0x7d6f8c(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MultiplayerPreviewCode.eventsList0x8771ac
+}; //End of gdjs.MultiplayerPreviewCode.eventsList0x7d6934
 gdjs.MultiplayerPreviewCode.eventsList0xb4320 = function(runtimeScene) {
 
 {
@@ -200,7 +200,7 @@ if (gdjs.MultiplayerPreviewCode.condition1IsTrue_0.val) {
 }{gdjs.evtTools.sound.stopSoundOnChannel(runtimeScene, 1);
 }
 { //Subevents
-gdjs.MultiplayerPreviewCode.eventsList0x87763c(runtimeScene);} //End of subevents
+gdjs.MultiplayerPreviewCode.eventsList0x7d5e0c(runtimeScene);} //End of subevents
 }
 
 }
@@ -228,7 +228,7 @@ if (gdjs.MultiplayerPreviewCode.condition1IsTrue_0.val) {
 }{gdjs.evtTools.sound.stopSoundOnChannel(runtimeScene, 1);
 }
 { //Subevents
-gdjs.MultiplayerPreviewCode.eventsList0x8771ac(runtimeScene);} //End of subevents
+gdjs.MultiplayerPreviewCode.eventsList0x7d6934(runtimeScene);} //End of subevents
 }
 
 }

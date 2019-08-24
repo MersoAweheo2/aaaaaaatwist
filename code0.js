@@ -120,7 +120,7 @@ gdjs.SplashscreenCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.SplashscreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.SplashscreenCode.conditionTrue_1 = gdjs.SplashscreenCode.condition2IsTrue_0;
-gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8870932);
+gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7933060);
 }
 }}
 }
@@ -145,7 +145,7 @@ gdjs.SplashscreenCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.SplashscreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.SplashscreenCode.conditionTrue_1 = gdjs.SplashscreenCode.condition2IsTrue_0;
-gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8871676);
+gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7933804);
 }
 }}
 }
@@ -175,7 +175,7 @@ gdjs.SplashscreenCode.condition2IsTrue_0.val = gdjs.evtTools.input.cursorOnObjec
 }if ( gdjs.SplashscreenCode.condition2IsTrue_0.val ) {
 {
 {gdjs.SplashscreenCode.conditionTrue_1 = gdjs.SplashscreenCode.condition3IsTrue_0;
-gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8872692);
+gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7934820);
 }
 }}
 }
@@ -203,7 +203,7 @@ gdjs.SplashscreenCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButton
 }if ( gdjs.SplashscreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.SplashscreenCode.conditionTrue_1 = gdjs.SplashscreenCode.condition2IsTrue_0;
-gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8873804);
+gdjs.SplashscreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7935932);
 }
 }}
 }
